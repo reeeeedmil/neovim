@@ -15,6 +15,9 @@ require("neo-tree").setup({
             ["D"] = "add_directory",
             ["d"] = "delete",
           }
-        }
-      }
+        },
+      },
+      window = {
+        position = "right",
+      },
     })
